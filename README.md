@@ -49,19 +49,19 @@ The screenshots below demonstrate the workflow used to prepare, export and proce
 
 To protect commercially sensitive information, all screenshots used anonymized or representative data. The workflow, logic, and outputs accurately reflect the process used within the solution.
 
-Screenshot 1: Data preparation in MAPPER
+### Screenshot 1: Data preparation in MAPPER
 This screenshot shows the customised RID created in MAPPER to organise the required inventory data before export. This step ensured the source data was structured consistently for analysis.
  
-Screenshot 2: Export-ready inventory dataset
+### Screenshot 2: Export-ready inventory dataset
 The RID was populated with the key fields needed to apply the recall quantity business rules, including stock, sales and inventory indicators. At this stage, the dataset was ready to be exported into Microsoft Excel for processing.
  
-Screenshot 3: Data Transformed in Excel
+### Screenshot 3: Data Transformed in Excel
 This screenshot demonstrates how the exported data was brought into Excel and prepared for automated recommendation logic. The model applies predefined rules to support consistent recall quantity decisions. 
 
-Screenshot 4: Office Script automation
+### Screenshot 4: Office Script automation
 This screenshot shows the Office Script used to automate key parts of the workflow between the Excel calculation model and the final recommendation output. The script helped standardise repeatable steps, reduce manual processing, and make the process faster, cleaner, and more consistent.
 
-Screenshot 5: Excel Decision Support Model
+### Screenshot 5: Excel Decision Support Model
 The final output provides a recommended recall quantity for review. This gives planners a clear, data-supported starting point and reduces the amount of manual interpretation required.
 
 ## Skills Demonstrated
