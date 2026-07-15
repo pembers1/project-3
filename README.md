@@ -57,7 +57,7 @@ This screenshot shows the customised RID created in MAPPER to organise the requi
 ### Screenshot 2: Export-ready inventory dataset
 The RID was populated with the key fields needed to apply the recall quantity business rules, including stock, sales and inventory indicators. At this stage, the dataset was ready to be exported into Microsoft Excel for processing.
 
-![Image Alt](https://github.com/pembers1/project-3/blob/main/Screenshot%202026-07-08%20112455.png?raw=true)
+![Image Alt](https://github.com/pembers1/project-3/blob/main/Screenshot%202026-07-08%20111928.png?raw=true)
  
 ### Screenshot 3: Data Transformed in Excel
 This screenshot demonstrates how the exported data was brought into Excel and prepared for automated recommendation logic. The model applies predefined rules to support consistent recall quantity decisions. 
