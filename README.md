@@ -40,6 +40,9 @@ Increased Confidence in Decisions
 Scalable Process
 * Enabled larger volumes of inventory data to be assessed efficiently without a proportional increase in manual workload.
 
+Time Saved
+* Up to 2 hours weekly
+
 ## Tools & Technologies Used
 * Microsoft Excel
 * Office Scripts
