@@ -1,5 +1,7 @@
 # Inventory Recall Quantity Recommendation Engine
 
+[Home](https://github.com/pembers1/portfolio-homepage#data-analytics--business-intelligence-portfolio)
+
 ## Project Summary
 Developed an Excel-based inventory recommendation engine to support retail stock recall planning. The solution analyses sales performance, stock positions, warehouse availability and inventory cover metrics to generate statistically supported recall quantity recommendations, reducing manual effort and improving decision consistency.
 
